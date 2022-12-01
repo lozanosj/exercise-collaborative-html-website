@@ -62,3 +62,8 @@ Everyone delivers the same repo as solution.
 
 The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-engine) is being used as template engine for building the landing page.
 
+Distribución:
+Juan: First-heading y services
+Yunensey: primera parte
+Luis:
+Jhonny: Portfolio
