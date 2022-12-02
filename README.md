@@ -65,5 +65,5 @@ The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-
 Distribución:
 Juan: First-heading y services
 Yunensey: primera parte
-Luis:
+Luis: Contact
 Jhonny: Portfolio

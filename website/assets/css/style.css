@@ -15,3 +15,7 @@ body{
 .card-title{
     color: #2b47e7;
 }
+
+#services{
+    display: flex;
+}
